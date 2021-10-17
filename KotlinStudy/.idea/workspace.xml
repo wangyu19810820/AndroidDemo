@@ -5,86 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c26e28a9-ccc6-4217-af9e-4a22c33ef5cd" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin05/kotlin05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin01/src/Condition.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin01/src/Function.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin01/src/Hello.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin01/src/MyJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin01/src/SpecialFunc.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin01/src/StringTemplate.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin03/kotlin03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin03/kotlin03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin04/kotlin04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin04/kotlin04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFunc2Kt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFunc2Kt$main$getDiscountWords$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFunc2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFuncKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFuncKt$main$blessingFunction1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFuncKt$main$blessingFunction2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFuncKt$main$blessingFunction3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFuncKt$main$blessingFunction4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/AnonymousFuncKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/ClosureKt$configDiscountWords$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/ClosureKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/JavaAnonymousClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/JavaAnonymousClass$DiscountWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/JavaAnonymousClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/META-INF/kotlin02.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/PassingFuncReferenceKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin02/PassingFuncReferenceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/AlsoTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/ApplyTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/ExceptionFixKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/LetTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/META-INF/kotlin03.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/NullSafeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/NumberConvertKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/RunTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/StringTest2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/StringTestKt$main$str4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/StringTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/TakeIfTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/TakeUnlessTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/UnskilledException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin03/WithTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/ArrayTypeTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/ClassDefinitionTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/ForeachListTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/InitTrapTest2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/InitTrapTest3Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/ListTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/META-INF/kotlin04.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/MapTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/MutableListTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/MutableMapTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player3Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player4Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player5$config$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player5Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Player8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/PlayerKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/SetTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin04/StudentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin05/META-INF/kotlin05.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin05/META-INF/kotlin05.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -121,39 +44,50 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kotlin05/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kotlin05/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/kotlin01/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ProductKt">
-    <configuration name="ConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionKt" />
-      <module name="kotlin01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProductKt" />
+  <component name="RunManager" selected="Kotlin.LicenseStatus2Kt">
+    <configuration name="Coordinate2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coordinate2Kt" />
       <module name="kotlin05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonTest2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonTest2Kt" />
+    <configuration name="Direction2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Direction2Kt" />
       <module name="kotlin05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonTestKt" />
+    <configuration name="DirectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DirectionKt" />
+      <module name="kotlin05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LicenseStatus2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LicenseStatus2Kt" />
+      <module name="kotlin05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LicenseStatusKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LicenseStatusKt" />
       <module name="kotlin05" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,10 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ProductKt" />
-        <item itemvalue="Kotlin.SingletonTest2Kt" />
-        <item itemvalue="Kotlin.SingletonTestKt" />
-        <item itemvalue="Kotlin.ConditionKt" />
+        <item itemvalue="Kotlin.LicenseStatus2Kt" />
+        <item itemvalue="Kotlin.LicenseStatusKt" />
+        <item itemvalue="Kotlin.Direction2Kt" />
+        <item itemvalue="Kotlin.DirectionKt" />
+        <item itemvalue="Kotlin.Coordinate2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634433144253</updated>
-      <workItem from="1634433145653" duration="5806000" />
+      <workItem from="1634433145653" duration="12515000" />
     </task>
     <servers />
   </component>
