@@ -16,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter13初始化/chapter13初始化.iml" filepath="$PROJECT_DIR$/chapter13初始化/chapter13初始化.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter14继承/chapter14继承.iml" filepath="$PROJECT_DIR$/chapter14继承/chapter14继承.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter15对象/chapter15对象.iml" filepath="$PROJECT_DIR$/chapter15对象/chapter15对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16接口与抽象类/chapter16接口与抽象类.iml" filepath="$PROJECT_DIR$/chapter16接口与抽象类/chapter16接口与抽象类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17泛型/chapter17泛型.iml" filepath="$PROJECT_DIR$/chapter17泛型/chapter17泛型.iml" />
     </modules>
   </component>
 </project>
