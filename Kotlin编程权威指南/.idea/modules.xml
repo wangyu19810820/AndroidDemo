@@ -6,6 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/chapter03条件语句/chapter03条件语句.iml" filepath="$PROJECT_DIR$/chapter03条件语句/chapter03条件语句.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter04函数/chapter04函数.iml" filepath="$PROJECT_DIR$/chapter04函数/chapter04函数.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05匿名函数与函数类型/chapter05匿名函数与函数类型.iml" filepath="$PROJECT_DIR$/chapter05匿名函数与函数类型/chapter05匿名函数与函数类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06null安全与异常/chapter06null安全与异常.iml" filepath="$PROJECT_DIR$/chapter06null安全与异常/chapter06null安全与异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07字符串/chapter07字符串.iml" filepath="$PROJECT_DIR$/chapter07字符串/chapter07字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08数/chapter08数.iml" filepath="$PROJECT_DIR$/chapter08数/chapter08数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09标准库函数/chapter09标准库函数.iml" filepath="$PROJECT_DIR$/chapter09标准库函数/chapter09标准库函数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10List与Set/chapter10List与Set.iml" filepath="$PROJECT_DIR$/chapter10List与Set/chapter10List与Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11Map/chapter11Map.iml" filepath="$PROJECT_DIR$/chapter11Map/chapter11Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12定义类/chapter12定义类.iml" filepath="$PROJECT_DIR$/chapter12定义类/chapter12定义类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13初始化/chapter13初始化.iml" filepath="$PROJECT_DIR$/chapter13初始化/chapter13初始化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14继承/chapter14继承.iml" filepath="$PROJECT_DIR$/chapter14继承/chapter14继承.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15对象/chapter15对象.iml" filepath="$PROJECT_DIR$/chapter15对象/chapter15对象.iml" />
     </modules>
   </component>
 </project>
