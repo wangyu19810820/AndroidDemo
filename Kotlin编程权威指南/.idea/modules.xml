@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter15对象/chapter15对象.iml" filepath="$PROJECT_DIR$/chapter15对象/chapter15对象.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter16接口与抽象类/chapter16接口与抽象类.iml" filepath="$PROJECT_DIR$/chapter16接口与抽象类/chapter16接口与抽象类.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter17泛型/chapter17泛型.iml" filepath="$PROJECT_DIR$/chapter17泛型/chapter17泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18扩展/chapter18扩展.iml" filepath="$PROJECT_DIR$/chapter18扩展/chapter18扩展.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19函数式编程基础/chapter19函数式编程基础.iml" filepath="$PROJECT_DIR$/chapter19函数式编程基础/chapter19函数式编程基础.iml" />
     </modules>
   </component>
 </project>
