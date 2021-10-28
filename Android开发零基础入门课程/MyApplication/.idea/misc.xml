@@ -4,11 +4,30 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.29259259259259257" />
+        <entry key="app/mylistview/src/main/res/layout/activity_main.xml" value="0.16210739614994935" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="myalertdialog/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="myalertdialog/src/main/res/layout/dialog_view.xml" value="0.1" />
+        <entry key="myalertdialog/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20208333333333334" />
         <entry key="mybutton/src/main/res/drawable/btn_selector.xml" value="0.28703703703703703" />
         <entry key="mybutton/src/main/res/layout/activity_main.xml" value="0.16210739614994935" />
+        <entry key="myconstraintlayout/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="myedittext/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="myframelayout/src/main/res/layout/activity_main.xml" value="0.16210739614994935" />
+        <entry key="mygridlayout/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="myimageview/src/main/res/layout/activity_main.xml" value="0.16894630192502533" />
+        <entry key="mylinearlayout/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="mylistview/src/main/res/layout/activity_main.xml" value="0.16210739614994935" />
+        <entry key="mylistview/src/main/res/layout/list_item.xml" value="0.16894630192502533" />
+        <entry key="mynotification/src/main/res/layout/activity_main.xml" value="0.16894630192502533" />
+        <entry key="mypopupwindow/src/main/res/layout/activity_main.xml" value="0.8267326732673267" />
+        <entry key="mypopupwindow/src/main/res/layout/popup_view.xml" value="0.25" />
+        <entry key="myprogressbar/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="myrecyclerview/src/main/res/layout/activity_main.xml" value="0.13994565217391305" />
+        <entry key="myrecyclerview/src/main/res/layout/recyclerview_item.xml" value="0.13994565217391305" />
+        <entry key="myrelativelayout/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="mytablelayout/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="mytoolbar/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -17,5 +36,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
