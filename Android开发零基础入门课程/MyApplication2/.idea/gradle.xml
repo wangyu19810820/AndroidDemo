@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/tweenedanim" />
             <option value="$PROJECT_DIR$/valueanim" />
             <option value="$PROJECT_DIR$/viewpage" />
+            <option value="$PROJECT_DIR$/viewpageandfragment" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

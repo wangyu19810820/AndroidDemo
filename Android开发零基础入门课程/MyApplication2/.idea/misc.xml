@@ -19,6 +19,8 @@
         <entry key="valueanim/src/main/res/layout/activity_main.xml" value="0.7029702970297029" />
         <entry key="viewpage/src/main/res/layout/activity_main.xml" value="0.14175724637681159" />
         <entry key="viewpage/src/main/res/layout/layout1.xml" value="0.14175724637681159" />
+        <entry key="viewpageandfragment/src/main/res/layout/activity_main.xml" value="0.12001811594202899" />
+        <entry key="viewpageandfragment/src/main/res/layout/item_pager.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -6,8 +6,10 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
@@ -26,7 +28,22 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.btn:
-                replaceFragment(new BlankFragment1());
+                BlankFragment1 fragment1 = new BlankFragment1();
+                Bundle bundle = new Bundle();
+                bundle.putString("message", "我喜欢享学课堂");
+                fragment1.setArguments(bundle);
+                fragment1.setiFragmentCallback(new IFragmentCallback() {
+                    @Override
+                    public void sendMsgToActivity(String msg) {
+                        Toast.makeText(MainActivity.this, msg, Toast.LENGTH_SHORT).show();
+                    }
+
+                    @Override
+                    public String getMsgFromActivity(String msg) {
+                        return "Hi, I am from activity.";
+                    }
+                });
+                replaceFragment(fragment1);
                 break;
             case R.id.btn2:
                 replaceFragment(new ItemFragment());
