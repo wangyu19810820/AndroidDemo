@@ -6,14 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "My Application2"
+rootProject.name = "My Application3"
 include ':app'
-include ':frameanim'
-include ':tweenedanim'
-include ':valueanim'
-include ':layoutparams'
-include ':viewpage'
-include ':fragment'
-include ':fragmentmanagers'
-include ':viewpageandfragment'
-include ':wechatpage'

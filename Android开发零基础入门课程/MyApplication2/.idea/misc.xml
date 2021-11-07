@@ -21,6 +21,13 @@
         <entry key="viewpage/src/main/res/layout/layout1.xml" value="0.14175724637681159" />
         <entry key="viewpageandfragment/src/main/res/layout/activity_main.xml" value="0.12001811594202899" />
         <entry key="viewpageandfragment/src/main/res/layout/item_pager.xml" value="0.1" />
+        <entry key="wechatpage/src/main/res/drawable/tab_contact.xml" value="0.287962962962963" />
+        <entry key="wechatpage/src/main/res/drawable/tab_find.xml" value="0.287962962962963" />
+        <entry key="wechatpage/src/main/res/drawable/tab_profile.xml" value="0.287962962962963" />
+        <entry key="wechatpage/src/main/res/drawable/tab_weixin.xml" value="0.287962962962963" />
+        <entry key="wechatpage/src/main/res/layout/activity_main.xml" value="0.1105072463768116" />
+        <entry key="wechatpage/src/main/res/layout/bottom_layout.xml" value="0.1" />
+        <entry key="wechatpage/src/main/res/layout/fragment_blank.xml" value="0.1105072463768116" />
       </map>
     </option>
   </component>
